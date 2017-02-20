@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  ~ The MIT License (MIT)
+  ~ Copyright (c) 2016 Ubiqueworks Ltd and contributors
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
+  ~ files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify,
+  ~ merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+  ~ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+  ~ SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+  ~ ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+  ~ OR OTHER DEALINGS IN THE SOFTWARE.
+  ~
+  -->
+
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_help</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_help" fill="#000000">
+            <path d="M10.7109375,14.9960938 C10.7174479,14.0520786 10.7988273,13.3977883 10.9550781,13.0332031 C11.1113289,12.668618 11.5214811,12.186852 12.1855469,11.5878906 C12.8300813,10.8261681 13.2890611,10.2402364 13.5625,9.83007812 C13.8359389,9.41991982 13.9726562,8.92513311 13.9726562,8.34570312 C13.9726562,7.65559551 13.7887388,7.12500186 13.4208984,6.75390625 C13.0530581,6.38281064 12.5273472,6.19726562 11.84375,6.19726562 C11.2512991,6.19726562 10.7467469,6.35839683 10.3300781,6.68066406 C9.91340938,7.0029313 9.70507812,7.47655938 9.70507812,8.1015625 L7.86914062,8.1015625 L7.83984375,8.04296875 C7.8203124,6.99478643 8.18977485,6.15495107 8.94824219,5.5234375 C9.70670952,4.89192393 10.6718691,4.57617188 11.84375,4.57617188 C13.1263085,4.57617188 14.1223923,4.90331704 14.8320312,5.55761719 C15.5416702,6.21191733 15.8964844,7.12499414 15.8964844,8.296875 C15.8964844,9.13672295 15.6669945,9.90494443 15.2080078,10.6015625 C14.7490211,11.2981806 14.1419309,12.0110641 13.3867188,12.7402344 C13.0351545,13.0917986 12.8219405,13.4075507 12.7470703,13.6875 C12.6722001,13.9674493 12.6347656,14.4036429 12.6347656,14.9960938 L10.7109375,14.9960938 Z M12.703125,19 L10.6914062,19 L10.6914062,16.96875 L12.703125,16.96875 L12.703125,19 Z" id="?"></path>
+        </g>
+    </g>
+</svg>

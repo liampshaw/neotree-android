@@ -1,0 +1,9 @@
+.DS_Store
+.gradle
+.idea
+build
+local.properties
+*.iml
+google-services.json
+fabric.properties
+*.keystore
