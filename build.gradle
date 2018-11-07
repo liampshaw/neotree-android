@@ -23,15 +23,17 @@ buildscript {
     repositories {
         jcenter()
         maven { url 'https://maven.fabric.io/public' }
+        google()
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.3'
+        classpath 'com.android.tools.build:gradle:3.2.0'
         classpath 'com.google.gms:google-services:3.0.0'
-        classpath 'com.google.guava:guava:19.0'
-        classpath 'io.fabric.tools:gradle:1.+'
-        classpath "io.realm:realm-gradle-plugin:1.2.0"
+        classpath 'com.google.guava:guava:24.1-jre'
+        classpath "io.realm:realm-gradle-plugin:4.1.1"
+        classpath "io.realm:realm-gradle-plugin:4.1.1"
         classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+
         classpath 'me.tatarka:gradle-retrolambda:3.2.5'
         classpath 'me.tatarka.retrolambda.projectlombok:lombok.ast:0.2.3.a2'
     }
@@ -42,6 +44,8 @@ buildscript {
 
 allprojects {
     repositories {
+        google()
+
         jcenter()
         maven { url 'https://maven.fabric.io/public' }
         maven { url 'https://github.com/uPhyca/stetho-realm/raw/master/maven-repo' }
